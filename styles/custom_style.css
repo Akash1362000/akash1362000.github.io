@@ -1,0 +1,113 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.bg-image{
+    background-image: url(images/code2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.profile{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+  
+  /* ALIGN CONTENT */
+  .typing-container {
+    display: flex;
+    /* Remove horizontal 'justify-content' center if you want the base text not to move */
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
+  
+  /* ADD CURSOR */
+  .txt-type > .txt {
+    border-right: 0.08rem solid #fff;
+    padding-right: 2px;
+    color: white;
+    /* Animating the cursor */
+    animation: blink 0.8s infinite;
+  }
+  
+  /* ANIMATION */
+  @keyframes blink {
+    0% {
+      border-right: 0.08rem solid rgba(255, 255, 255, 1);
+    }
+    100% {
+      border-right: 0.08rem solid rgba(255, 255, 255, 0.2);
+    }
+  }
+  
+  .rounded-circle-mail{
+      background-color: red;
+      border-radius: 50%;
+      width: 50px;
+      height: 50px;
+  }
+ 
+  .rounded-circle-fb{
+    background-color: #3A559F;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.rounded-circle-insta{
+    background-color: #E1003E;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.rounded-circle-fb{
+    background-color: #3A559F;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.rounded-circle-twitter{
+    background-color: #1DA1F2;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.rounded-circle-linkedin{
+    background-color:#006CB2;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.rounded-circle-github{
+    background-color:black;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.rounded-circle-hackerrank{
+    background-color: #1BA94C;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.first-card{
+  background-color:white;
+}
+
+body{
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
