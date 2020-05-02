@@ -8,8 +8,19 @@
 
 
 <url>
-  <loc>https://akash1362000.github.io/my-portfolio/index.html</loc>
-  <lastmod>2020-05-02T15:40:49+00:00</lastmod>
+  <loc>https://akash1362000.github.io/</loc>
+  <lastmod>2020-05-02T16:01:40+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://akash1362000.github.io/certificates/AS_Resume_29.4.2020.pdf</loc>
+  <lastmod>2020-04-29T10:21:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://akash1362000.github.io/certificates/Internship_Certificate_Zersey_AkashS.pdf</loc>
+  <lastmod>2020-04-29T10:21:32+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
