@@ -1,7 +1,3 @@
-html {
-  scroll-behavior: smooth;
-}
-
 .bg-image{
     background-image: url(images/code2.jpg);
     background-repeat: no-repeat;
@@ -107,6 +103,7 @@ html {
 }
 
 html, body{
+  scroll-behavior: smooth;
   width: 100%;
   height: 100%;
   margin: 0px;
