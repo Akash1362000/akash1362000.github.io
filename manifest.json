@@ -10,9 +10,8 @@
     "orientation": "any",
     "icons": [
       {
-        "src": "styles/images/PWA.png",
-        "sizes": "1024x1024",
-        "type": "image/png"
+        "src": "/styles/images/Akash_Profile.png",
+        "sizes": "1024x1024"
       },
       {
         "src": "/styles/images/PWA.png",
