@@ -5,7 +5,7 @@
     "background_color": "#010204",
     "display": "standalone",
     "scope": "/",
-    "start_url": "/",
+    "start_url": "https://akash1362000.github.io/",
     "description": "Portfolio for Akash Shrivastava",
     "orientation": "any",
     "icons": [
