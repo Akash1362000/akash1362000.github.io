@@ -11,7 +11,8 @@
     "icons": [
       {
         "src": "/styles/images/PWA256.png",
-        "sizes": "1024x1024"
+        "sizes": "1024x1024",
+        "type": "image/png"
       },
       {
         "src": "/styles/images/PWA.png",
