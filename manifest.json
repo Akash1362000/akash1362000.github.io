@@ -1,7 +1,7 @@
 {
     "name": "Akash Shrivastava",
     "short_name": "Akash",
-    "theme_color": "#D7263D",
+    "theme_color": "#DC7633",
     "background_color": "#010204",
     "display": "standalone",
     "scope": "/",
@@ -9,6 +9,11 @@
     "description": "Portfolio for Akash Shrivastava",
     "orientation": "any",
     "icons": [
+      {
+        "src": "/styles/images/pwa36.png",
+        "sizes": "36x36",
+        "type": "image/png"
+      },
       {
         "src": "/styles/images/pwa72.png",
         "sizes": "72x72",
