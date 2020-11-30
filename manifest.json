@@ -1,8 +1,8 @@
 {
     "name": "Akash Shrivastava",
     "short_name": "Akash",
-    "theme_color": "#DC7633",
-    "background_color": "#010204",
+    "theme_color": "#07617D",
+    "background_color": "#F9A828",
     "display": "standalone",
     "scope": "/",
     "start_url": "https://akash1362000.github.io/",
