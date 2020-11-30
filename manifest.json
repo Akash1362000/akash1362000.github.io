@@ -1,7 +1,7 @@
 {
     "name": "Akash Shrivastava",
     "short_name": "Akash",
-    "theme_color": "#6B6B6B",
+    "theme_color": "#D7263D",
     "background_color": "#010204",
     "display": "standalone",
     "scope": "/",
@@ -10,47 +10,41 @@
     "orientation": "any",
     "icons": [
       {
-        "src": "/styles/images/PWA.png",
-        "sizes": "1024x1024"
-      },
-      {
-        "src": "/styles/images/PWA.png",
-        "sizes": "36x36",
-        "type": "image/png",
-        "density": "0.75"
-      },
-      {
-        "src": "/styles/images/PWA.png",
-        "sizes": "48x48",
-        "type": "image/png",
-        "density": "1.0"
-      },
-      {
-        "src": "/styles/images/PWA.png",
+        "src": "/styles/images/pwa72.png",
         "sizes": "72x72",
-        "type": "image/png",
-        "density": "1.5"
+        "type": "image/png"
       },
       {
-        "src": "/styles/images/PWA.png",
+        "src": "/styles/images/pwa96.png",
         "sizes": "96x96",
-        "type": "image/png",
-        "density": "2.0"
+        "type": "image/png"
       },
       {
-        "src": "/styles/images/PWA.png",
+        "src": "/styles/images/pwa128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "/styles/images/pwa144.png",
         "sizes": "144x144",
-        "type": "image/png",
-        "density": "3.0"
+        "type": "image/png"
       },
       {
-        "src": "/styles/images/PWA.png",
+        "src": "/styles/images/pwa152.png",
+        "sizes": "152x152",
+        "type": "image/png"
+      },
+      {
+        "src": "/styles/images/pwa192.png",
         "sizes": "192x192",
-        "type": "image/png",
-        "density": "4.0"
+        "type": "image/png"
       },
       {
-        "src": "/styles/images/PWA.png",
+        "src": "/styles/images/pwa384.png",
+        "sizes": "384x384"
+      },
+      {
+        "src": "/styles/images/pwa512.png",
         "sizes": "512x512"
       }
     ]
