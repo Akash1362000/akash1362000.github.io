@@ -1,5 +1,5 @@
 import React from 'react';
-import './experience';
+import './experience.css';
 
 const Experience = () => {
   return <div>Experience</div>;
