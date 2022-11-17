@@ -47,14 +47,14 @@ header {
 /* *************** Me ********************** */
 .me {
   background: linear-gradient(var(--color-primary), transparent);
-  width: 22rem;
-  height: 30rem;
+  width: 23rem;
+  height: fit-content;
   position: absolute;
-  left: calc(50% - 11rem);
+  left: calc(50% - 11.5rem);
   margin-top: 4rem;
   border-radius: 12rem 12rem 0 0;
   overflow: hidden;
-  padding: 5rem 1.5rem 1.5rem 1.5rem;
+  padding: 1rem 0 0 0;
 }
 
 .scroll__down {
@@ -68,8 +68,19 @@ header {
 
 /********************Media Queries for Medium Devices ***************************/
 @media screen and (max-width: 1024px) {
+  header {
+    height: 68vh;
+  }
 }
 
 /********************Media Queries for Small Devices ***************************/
 @media screen and (max-width: 600px) {
+  header {
+    height: 100vh;
+  }
+
+  .header__socials,
+  .scroll__down {
+    display: none;
+  }
 }

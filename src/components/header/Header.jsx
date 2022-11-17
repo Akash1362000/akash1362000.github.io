@@ -2,6 +2,7 @@ import React from 'react';
 import './header.css';
 import CTA from './CTA';
 import HeaderSocials from './HeaderSocials';
+import Akash_Profile from '../../assets/Akash_Profile.png';
 
 const Header = () => {
   return (
@@ -13,7 +14,7 @@ const Header = () => {
         <CTA />
         <HeaderSocials />
         <div className="me">
-          <img src="" alt="Akash Shrivastava" />
+          <img src={Akash_Profile} alt="Akash Shrivastava" />
         </div>
         <a href="#contact" className="scroll__down">
           Scroll Down
