@@ -10,70 +10,87 @@ const Services = () => {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>UI/UX Design</h3>
+            <h3>Backend Development</h3>
           </div>
           <ul className="service__list">
             <li>
               <GiCheckMark className="service__list-icon" />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Building Web applications using Python and Django for various
+                industries such as eCommerce, Edtech, Healthcare, Productivity,
+                and more.
+              </p>
             </li>
             <li>
               <GiCheckMark className="service__list-icon" />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Developing RESTful APIs using Django REST framework for mobile
+                applications & web applications
+              </p>
             </li>
             <li>
               <GiCheckMark className="service__list-icon" />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Designing and implementing databases using MySQL, PostgreSQL,
+                SQLite, and Redis.
+              </p>
             </li>
             <li>
               <GiCheckMark className="service__list-icon" />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Integration of third-party APIs and services such as payment
+                gateways, social media platforms, and messaging services.
+              </p>
+            </li>
+            <li>
+              <GiCheckMark className="service__list-icon" />
+              <p>
+                Implementing security features such as authentication, and
+                authorization using OAuth2 and JWT tokens.
+              </p>
             </li>
           </ul>
         </article>
         <article className="service">
           <div className="service__head">
-            <h3>Web Development</h3>
+            <h3>Backend Development</h3>
           </div>
           <ul className="service__list">
             <li>
               <GiCheckMark className="service__list-icon" />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Writing scalable and efficient code using best practices such as
+                code optimization, caching, and load balancing.
+              </p>
             </li>
             <li>
               <GiCheckMark className="service__list-icon" />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Providing maintenance and support services for existing Django
+                applications and databases.
+              </p>
             </li>
             <li>
               <GiCheckMark className="service__list-icon" />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Creating technical documentation and user manuals for end-users
+                and stakeholders.
+              </p>
             </li>
             <li>
               <GiCheckMark className="service__list-icon" />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-          </ul>
-        </article>
-        <article className="service">
-          <div className="service__head">
-            <h3>Content Creation</h3>
-          </div>
-          <ul className="service__list">
-            <li>
-              <GiCheckMark className="service__list-icon" />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+              <p>
+                Conducting training sessions and workshops for Python Django
+                development and related technologies.
+              </p>
             </li>
             <li>
               <GiCheckMark className="service__list-icon" />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+              <p>Implementing Push Notifications using Firebase.</p>
             </li>
             <li>
               <GiCheckMark className="service__list-icon" />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <GiCheckMark className="service__list-icon" />
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+              <p>Well versed with using Twitter and Notion API's.</p>
             </li>
           </ul>
         </article>

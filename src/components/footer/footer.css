@@ -1,0 +1,11 @@
+.footer__container {
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 8rem;
+  background: var(--color-primary);
+}
+
+.footer__container > a {
+  font-size: 1.2rem;
+  color: var(--color-bg);
+}

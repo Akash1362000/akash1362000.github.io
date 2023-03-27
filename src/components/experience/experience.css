@@ -34,6 +34,7 @@
 .experience__details {
   display: flex;
   gap: 1rem;
+  text-align: left;
 }
 
 .experience__details-icon {

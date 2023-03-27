@@ -4,6 +4,7 @@ import { AiOutlineHome, AiOutlineUser } from 'react-icons/ai';
 import { BiBook } from 'react-icons/bi';
 import { RiServiceLine } from 'react-icons/ri';
 import { TbMessages } from 'react-icons/tb';
+import { BsFileEarmarkCode } from 'react-icons/bs';
 import { useState } from 'react';
 
 const Navbar = () => {
@@ -38,6 +39,13 @@ const Navbar = () => {
         className={activeNav === '#services' ? 'active' : ''}
       >
         <RiServiceLine />
+      </a>
+      <a
+        href="#portfolio"
+        onClick={() => setActiveNav('#portfolio')}
+        className={activeNav === '#portfolio' ? 'active' : ''}
+      >
+        <BsFileEarmarkCode />
       </a>
       <a
         href="#contact"
