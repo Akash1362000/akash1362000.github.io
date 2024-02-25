@@ -21,7 +21,7 @@ const About = () => {
             <article className="about__card">
               <SlBadge className="about__icon" />
               <h5>Experience</h5>
-              <small>2+ years Working</small>
+              <small>3+ years Working</small>
             </article>
             <article className="about__card">
               <BsPeopleFill className="about__icon" />
@@ -35,7 +35,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            I am a Backend Developer with 2 years of experience in developing
+            I am a Backend Developer with 3+ years of experience in developing
             Python, Django and Flask Applications for various clients varying
             from startups to NGOs. I've worked in Fintech, Edtech, Productivity
             and Healthcare projects and built scalable solutions for my clients.
